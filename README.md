@@ -1,7 +1,3 @@
-Here’s a solid `README.md` you can directly paste into your repo. It’s written for clarity, recruiters, and anyone who wants to understand or reuse your code.
-
----
-
 # 📚 Course Recommender (git.ir)
 
 A simple course recommendation system that helps users find the most relevant and best-matching courses available on **git.ir** based on their preferences and data-driven logic.
@@ -36,7 +32,7 @@ It can be extended into a more advanced recommendation engine using NLP or user 
 ```
 course-recommender/
 │
-├── data/               # Course datasets
+├── output/               # Course datasets
 ├── recommender/       # Recommendation logic
 ├── scraper/           # Data collection (if used)
 ├── main.py            # Entry point
